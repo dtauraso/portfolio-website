@@ -2124,9 +2124,9 @@ input, select, textarea {
 			margin: 0;
 		}
 
-			#top .image img {
+			/* #top .image img {
 				border-radius: 100%;
-			}
+			} */
 
 		#top h1 {
 			margin-top: 0.35em;
